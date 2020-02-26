@@ -1,0 +1,23 @@
+2020-02-26 16:39:18,475 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - **********Chrome driver initiated**************
+2020-02-26 16:39:22,021 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - **********URL launched***********
+2020-02-26 16:39:30,639 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - ********User logged in************
+2020-02-26 17:01:24,531 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - **********Chrome driver initiated**************
+2020-02-26 17:01:28,642 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - **********URL launched***********
+2020-02-26 17:01:52,434 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - ********User logged in************
+2020-02-26 17:01:57,142 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - **********Chrome driver initiated**************
+2020-02-26 17:04:36,447 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - **********Chrome driver initiated**************
+2020-02-26 17:04:40,600 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - Fetched from Property file
+2020-02-26 17:07:00,016 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - **********Chrome driver initiated**************
+2020-02-26 17:07:03,973 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - Fetched from Property file
+2020-02-26 17:07:18,225 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - ********User logged in************
+2020-02-26 18:19:58,389 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - **********Chrome driver initiated**************
+2020-02-26 18:20:01,855 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - Fetched from Property file
+2020-02-26 18:20:21,990 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - ********User logged in************
+2020-02-26 19:35:32,461 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - **********Chrome driver initiated**************
+2020-02-26 19:36:04,159 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - Fetched from Property file
+2020-02-26 19:40:28,765 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - **********Chrome driver initiated**************
+2020-02-26 19:40:28,765 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - **********Chrome driver initiated**************
+2020-02-26 19:40:53,211 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - Fetched from Property file
+2020-02-26 19:40:53,213 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - Fetched from Property file
+2020-02-26 19:41:20,080 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - ********User logged in************
+2020-02-26 19:41:20,439 [main] INFO com.ss.ra.stepdefinitions.CoreStepDefinitions - ********User logged in************
