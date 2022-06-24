@@ -1,6 +1,7 @@
 Feature:  Test Orange HRM Login
 
 
+	@login
   Scenario: Verify logo is present in Orange HRM homepage
 
     Given User launch chrome browser
@@ -8,5 +9,7 @@ Feature:  Test Orange HRM Login
     Then I verify that the logo is present on page
     When I logout off the application
     And User close browser
+    
+    
     
     
