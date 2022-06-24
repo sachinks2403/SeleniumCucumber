@@ -7,5 +7,5 @@ Feature:  Test Orange HRM Login
     Given User launch chrome browser
     When I open Orange HRM homepage
     Then I verify that the logo is present on page
-    When I logout off the application
+    When I logout off the application.
     And User close browser
