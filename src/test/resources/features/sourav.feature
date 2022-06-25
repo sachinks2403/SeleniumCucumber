@@ -7,6 +7,7 @@ Feature:  Test Orange HRM Login
     Given User launch chrome browser
     And I add some other file
     When I open Orange HRM homepage
+    And I login to the application
     And I add few more stuff
     Then I verify that the logo is present on page
     And I validate my account page
